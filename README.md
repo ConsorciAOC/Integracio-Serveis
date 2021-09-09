@@ -3,4 +3,4 @@ Aquest repositori preten ser un recull de documents i informació relacionada am
 
 # Document d'alta Integració
 
-[Aquí podràs trobar l'última versió del document d'alta per a les integracions](https://github.com/ConsorciAOC/Integracio-Serveis/raw/main/documentAlta/formulari_sol-licitud_integracio_serveis_caoc.docx), amb la informació necessaria a complimentar per a poder començar a fer ús dels serveis.
+[Aquí podràs trobar l'última versió del document d'alta per a les integracions](https://github.com/ConsorciAOC/Integracio-Serveis/raw/main/documentAlta/formulari_sol-licitud_integracio_serveis_caoc.pdf), amb la informació necessaria a complimentar per a poder començar a fer ús dels serveis.
