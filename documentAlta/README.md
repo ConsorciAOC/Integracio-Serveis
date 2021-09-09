@@ -14,3 +14,7 @@ Data: 03/09/2021
 Afegida nova modalitat de consum del servei de VO:
 
 * Ministerio Interior – Estrangeria 
+
+Data: 09/09/2021
+
+Transformat el document de .docx a .pdf
