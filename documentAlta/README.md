@@ -25,4 +25,11 @@ Afegit nou servei:
 
 * El meu espai - myGov 
 
+Data: 13/04/2022
+
+Afegit nou servei:
+
+* VO - Generalitat - Renda Garantida Ciutadana 
+
+
 
