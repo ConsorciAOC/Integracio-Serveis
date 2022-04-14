@@ -31,5 +31,11 @@ Afegit nou servei:
 
 * VO - Generalitat - Renda Garantida Ciutadana 
 
+Data: 14/04/2022
+
+Actualitzem el punt 2, aclarint el pas de sol·licitud del servei.
+
+
+
 
 
