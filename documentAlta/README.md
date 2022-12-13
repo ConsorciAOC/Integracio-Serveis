@@ -35,7 +35,11 @@ Data: 14/04/2022
 
 Actualitzem el punt 2, aclarint el pas de sol·licitud del servei.
 
+Data: 13/12/2022
 
+Actualizem link de l'apartat pas 2. del document d'Integració PDF. Per : https://suport-integradors.aoc.cat/hc/ca/articles/4416407051665-Quines-dades-necessita-el-Consorci-AOC-per-integrar-me-amb-el-servei-
+
+  
 
 
 
