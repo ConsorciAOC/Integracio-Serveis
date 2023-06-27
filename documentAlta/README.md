@@ -39,6 +39,9 @@ Data: 13/12/2022
 
 Actualizem link de l'apartat pas 2. del document d'Integració PDF. Per : https://suport-integradors.aoc.cat/hc/ca/articles/4416407051665-Quines-dades-necessita-el-Consorci-AOC-per-integrar-me-amb-el-servei-
 
+Data 27/06/2023:
+
+Treiem eTRAM1 com servei integrable i FUE - https://contacte.aoc.cat/browse/ST-19945
   
 
 
