@@ -42,7 +42,10 @@ Actualizem link de l'apartat pas 2. del document d'Integració PDF. Per : https:
 Data 27/06/2023:
 
 Treiem eTRAM1 com servei integrable i FUE - https://contacte.aoc.cat/browse/ST-19945
-  
+
+Data 29/06/2023:
+
+Afegim el servei SCT_PDA i SCT_DEV
 
 
 
