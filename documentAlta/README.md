@@ -45,7 +45,7 @@ Treiem eTRAM1 com servei integrable i FUE - https://contacte.aoc.cat/browse/ST-1
 
 Data 29/06/2023:
 
-Afegim el servei SCT_PDA i SCT_DEV
+Afegim el servei SCT_PDA, IVTM https://contacte.aoc.cat/browse/ST-20032
 
 
 
