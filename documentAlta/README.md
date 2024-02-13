@@ -47,5 +47,14 @@ Data 29/06/2023:
 
 Afegim el servei SCT_PDA, IVTM https://contacte.aoc.cat/browse/ST-20032
 
+Data 31/01/2024:
+
+Afegim el servei MUFACE https://contacte.aoc.cat/browse/ST-21690
+
+
+Data 13/02/2024:
+
+Afegim el servei ACTIC https://contacte.aoc.cat/browse/ST-21803
+
 
 
